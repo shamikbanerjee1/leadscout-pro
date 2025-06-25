@@ -57,14 +57,11 @@ LeadScout Pro is an intelligent B2B lead generation tool built with Streamlit, O
     ```bash
    pip install -r requirements.txt
    
-3. Set your OpenAI API key
+3. **Set your OpenAI API key**
 
 4. **Run the app**
     ```bash
    streamlit run app.py
-
-
-
 
 📜 License
 MIT License. © 2025 Shamik Banerjee
