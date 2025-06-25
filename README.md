@@ -46,17 +46,6 @@ LeadScout Pro is an intelligent B2B lead generation tool built with Streamlit, O
 
 ---
 
-## 📁 Project Structure
-
-📦 leadscout-pro/
-├── app.py # Streamlit frontend & workflow logic
-├── scraper.py # GPT-powered lead generator
-├── lead_enricher.py # GPT enrichment + sentiment scoring
-├── lead_scorer.py # Lead scoring algorithm
-├── config.py # API keys and constants (you must provide)
-├── requirements.txt # All dependencies
-└── README.md 
-
 
 
 📜 License
